@@ -1,0 +1,6 @@
+D:\TESTPRO\AdvancedXML\AdvancedXML\HTMLReport\bin\Debug\HTMLReport.exe.config
+D:\TESTPRO\AdvancedXML\AdvancedXML\HTMLReport\bin\Debug\HTMLReport.exe
+D:\TESTPRO\AdvancedXML\AdvancedXML\HTMLReport\bin\Debug\HTMLReport.pdb
+D:\TESTPRO\AdvancedXML\AdvancedXML\HTMLReport\obj\Debug\HTMLReport.csprojResolveAssemblyReference.cache
+D:\TESTPRO\AdvancedXML\AdvancedXML\HTMLReport\obj\Debug\HTMLReport.exe
+D:\TESTPRO\AdvancedXML\AdvancedXML\HTMLReport\obj\Debug\HTMLReport.pdb
