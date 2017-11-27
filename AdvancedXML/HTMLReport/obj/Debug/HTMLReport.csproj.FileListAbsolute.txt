@@ -4,3 +4,8 @@ D:\TESTPRO\AdvancedXML\AdvancedXML\HTMLReport\bin\Debug\HTMLReport.pdb
 D:\TESTPRO\AdvancedXML\AdvancedXML\HTMLReport\obj\Debug\HTMLReport.csprojResolveAssemblyReference.cache
 D:\TESTPRO\AdvancedXML\AdvancedXML\HTMLReport\obj\Debug\HTMLReport.exe
 D:\TESTPRO\AdvancedXML\AdvancedXML\HTMLReport\obj\Debug\HTMLReport.pdb
+e:\Mentoring\AdvancedXML\AdvancedXML\HTMLReport\bin\Debug\HTMLReport.exe.config
+e:\Mentoring\AdvancedXML\AdvancedXML\HTMLReport\bin\Debug\HTMLReport.exe
+e:\Mentoring\AdvancedXML\AdvancedXML\HTMLReport\bin\Debug\HTMLReport.pdb
+e:\Mentoring\AdvancedXML\AdvancedXML\HTMLReport\obj\Debug\HTMLReport.exe
+e:\Mentoring\AdvancedXML\AdvancedXML\HTMLReport\obj\Debug\HTMLReport.pdb
