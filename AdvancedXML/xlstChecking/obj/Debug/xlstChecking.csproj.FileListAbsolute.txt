@@ -1,7 +1,6 @@
 D:\TESTPRO\AdvancedXML\AdvancedXML\xlstChecking\bin\Debug\xlstChecking.exe.config
 D:\TESTPRO\AdvancedXML\AdvancedXML\xlstChecking\bin\Debug\xlstChecking.exe
 D:\TESTPRO\AdvancedXML\AdvancedXML\xlstChecking\bin\Debug\xlstChecking.pdb
-D:\TESTPRO\AdvancedXML\AdvancedXML\xlstChecking\obj\Debug\xlstChecking.csprojResolveAssemblyReference.cache
 D:\TESTPRO\AdvancedXML\AdvancedXML\xlstChecking\obj\Debug\xlstChecking.exe
 D:\TESTPRO\AdvancedXML\AdvancedXML\xlstChecking\obj\Debug\xlstChecking.pdb
 e:\Mentoring\AdvancedXML\AdvancedXML\xlstChecking\bin\Debug\xlstChecking.exe.config
