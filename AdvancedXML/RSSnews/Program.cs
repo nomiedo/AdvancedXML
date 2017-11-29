@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
+using System.Xml.Xsl;
 
 namespace RSSnews
 {
@@ -10,6 +8,13 @@ namespace RSSnews
     {
         static void Main(string[] args)
         {
+            var resultPath = "../../RSSresult.html";
+            if (File.Exists(resultPath))
+                File.Delete(resultPath);
+
+            var xsl = new XslCompiledTransform();
+            xsl.Load("../../RSSFeedBooks.xslt");
+            xsl.Transform("../../RSSbooks.xml", null, new FileStream(resultPath, FileMode.Create));
         }
     }
 }

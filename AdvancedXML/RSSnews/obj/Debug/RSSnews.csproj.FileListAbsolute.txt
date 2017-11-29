@@ -1,7 +1,6 @@
 D:\TESTPRO\AdvancedXML\AdvancedXML\RSSnews\bin\Debug\RSSnews.exe.config
 D:\TESTPRO\AdvancedXML\AdvancedXML\RSSnews\bin\Debug\RSSnews.exe
 D:\TESTPRO\AdvancedXML\AdvancedXML\RSSnews\bin\Debug\RSSnews.pdb
-D:\TESTPRO\AdvancedXML\AdvancedXML\RSSnews\obj\Debug\RSSnews.csprojResolveAssemblyReference.cache
 D:\TESTPRO\AdvancedXML\AdvancedXML\RSSnews\obj\Debug\RSSnews.exe
 D:\TESTPRO\AdvancedXML\AdvancedXML\RSSnews\obj\Debug\RSSnews.pdb
 e:\Mentoring\AdvancedXML\AdvancedXML\RSSnews\bin\Debug\RSSnews.exe.config
