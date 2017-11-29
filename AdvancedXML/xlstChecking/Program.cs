@@ -22,7 +22,7 @@ namespace xlstChecking
 
             XmlReader reader1 = XmlReader.Create("books.xml", settings);
 
-            while (reader1.Read()) ;
+            while (reader1.Read());
     
             Console.WriteLine("Good file was checked");
 

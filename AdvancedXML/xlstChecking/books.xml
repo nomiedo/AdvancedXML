@@ -1,0 +1,38 @@
+﻿<NewDataSet>
+<RecentMatter>
+  <UserLogin>PSLTP6\RJK</UserLogin>
+  <MatterNumber>99999-2302</MatterNumber>
+  <ClientName>Test Matters</ClientName>
+  <MatterName>DP Test Matter</MatterName>
+  <ClientCode>99999</ClientCode>
+  <OfficeCode/>
+  <OfficeName/>
+  <Billable>true</Billable>
+  <ReferenceId/>
+  <LastUsed>2011-08-23T23:40:24.13+01:00</LastUsed>
+</RecentMatter>
+<RecentMatter>
+  <UserLogin>PSLTP6\RJK</UserLogin>
+  <MatterNumber>999991.0002</MatterNumber>
+  <ClientName>Lathe 1</ClientName>
+  <MatterName>LW Test 2</MatterName>
+  <ClientCode/>
+  <OfficeCode/>
+  <OfficeName/>
+  <Billable>true</Billable>
+  <ReferenceId/>
+  <LastUsed>2011-07-12T16:57:27.173+01:00</LastUsed>
+</RecentMatter>
+<RecentMatter>
+  <UserLogin>PSLTP6\RJK</UserLogin>
+  <MatterNumber>999991-0001</MatterNumber>
+  <ClientName>Lathe 1</ClientName>
+  <MatterName>LW Test 1</MatterName>
+  <ClientCode/>
+  <OfficeCode/>
+  <OfficeName/>
+  <Billable>false</Billable>
+  <ReferenceId/>
+  <LastUsed>2011-07-12T01:59:06.887+01:00</LastUsed>
+</RecentMatter>
+</NewDataSet>
